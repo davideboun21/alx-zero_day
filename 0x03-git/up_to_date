@@ -1,2 +1,5 @@
 rmdir js
 echo
+git add .
+git commit 
+git push
